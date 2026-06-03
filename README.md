@@ -26,6 +26,8 @@ I enjoy solving complex engineering challenges, optimizing performance, designin
 
 **Oct 2024 – Present**
 
+Working on scalable SaaS platforms, analytics systems, and AI-powered solutions. I design and develop secure multi-tenant applications, optimize backend performance, build data pipelines, and create automation tools that improve business operations and user experience. My work spans system architecture, API development, database optimization, cloud integrations, and AI-assisted engineering workflows.
+
 ## 🛠️ Tech Stack
 
 ### Languages
