@@ -1,5 +1,3 @@
-![Header](./github-header-banner.png)
-
 # Hi there, I'm Adheena Dev 👋
 
 <div align="center">
