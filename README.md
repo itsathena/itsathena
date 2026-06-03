@@ -1,3 +1,5 @@
+![Header](./your-header-image-name.png)
+
 # Hi there, I'm Adheena Dev 👋
 
 <div align="center">
@@ -25,18 +27,6 @@ I enjoy solving complex engineering challenges, optimizing performance, designin
 ### Software Engineer @ Techtaliya
 
 **Oct 2024 – Present**
-
-🔹 Architected and delivered a hotel revenue analytics platform providing real-time occupancy and revenue insights.
-
-🔹 Built a multi-tenant SaaS platform supporting Recruitment, Training, and Reselling modules with secure tenant isolation.
-
-🔹 Improved PostgreSQL performance, reducing report generation latency by approximately 35%.
-
-🔹 Built internal SEO automation tools and secure data ingestion pipelines using APIs, SFTP, Email Processing, and AWS S3.
-
-🔹 Integrated AI-assisted engineering workflows using OpenAI, Gemini, and OpenCode.
-
-🔹 Delivered authentication systems, password reset workflows, admin dashboards, and analytical reporting tools.
 
 ## 🛠️ Tech Stack
 
