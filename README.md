@@ -4,8 +4,6 @@
 
 ### Full Stack Developer | SaaS Engineer | AI Enthusiast
 
-Building scalable applications, intelligent systems, and data-driven products that solve real-world problems.
-
 📍 Kochi, Kerala, India
 📧 [adheenadev@gmail.com](mailto:adheenadev@gmail.com)
 
