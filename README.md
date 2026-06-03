@@ -11,8 +11,6 @@ Building scalable applications, intelligent systems, and data-driven products th
 
 </div>
 
----
-
 ## 🚀 About Me
 
 I'm a Full Stack Developer with experience building scalable SaaS platforms, analytics systems, AI-powered tools, and cloud-native applications.
