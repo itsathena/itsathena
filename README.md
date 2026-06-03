@@ -19,7 +19,6 @@ Currently working as a Software Engineer at Techtaliya, where I design and devel
 
 I enjoy solving complex engineering challenges, optimizing performance, designing clean architectures and leveraging AI to improve developer productivity and user experiences.
 
----
 
 ## 💼 Professional Experience
 
@@ -38,8 +37,6 @@ I enjoy solving complex engineering challenges, optimizing performance, designin
 🔹 Integrated AI-assisted engineering workflows using OpenAI, Gemini, and OpenCode.
 
 🔹 Delivered authentication systems, password reset workflows, admin dashboards, and analytical reporting tools.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -75,8 +72,6 @@ I enjoy solving complex engineering challenges, optimizing performance, designin
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode)
 
----
-
 ## 🌟 Featured Projects
 
 ### 🚇 Kochi Metro Finder & Route Planner
@@ -85,23 +80,17 @@ A location-aware metro navigation application that identifies the nearest metro 
 
 **Tech:** React.js, Node.js, OpenStreetMap
 
----
-
 ### 📚 AI-Powered Semantic Book Search
 
 Built a semantic recommendation engine for 10,000+ books using embeddings and cosine similarity to provide context-aware search and recommendations.
 
 **Tech:** Python, Streamlit, NLP
 
----
-
 ### 📈 Stock Portfolio Analyzer
 
 A real-time portfolio analysis platform with interactive visualizations, optimized APIs, and market insights.
 
 **Tech:** Next.js, NestJS, PostgreSQL
-
----
 
 ## 🏆 Achievements
 
@@ -113,7 +102,6 @@ A real-time portfolio analysis platform with interactive visualizations, optimiz
 
 🎓 B.Tech in Computer Science & Engineering (GPA: 8.61/10)
 
----
 
 ## 🤝 Let's Connect
 
